@@ -2801,8 +2801,8 @@ MonoBehaviour:
   SprintMulti: 2
   Jumpforce: 5
   GroundCheckDistance: 1.5
-  LoofSenseX: 1
-  LoofSenseY: 1
+  LoofSenseX: 2
+  LoofSenseY: 2
   MinYLookAngle: -90
   MaxYLookAngle: 90
   Gravity: -9.8
