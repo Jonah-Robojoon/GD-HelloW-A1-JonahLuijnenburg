@@ -35,7 +35,6 @@ public class CharecterControlerMovement : MonoBehaviour
         if (Input.GetButtonDown("Jump"))
         {
             characterController.Move(transform.up * 1 * jumpForce * Time.deltaTime);
-            //myAnimator.SetFloat("jump", 1);
         }
     }
 }
